@@ -1,4 +1,10 @@
 # Compensation_coils
+This project is for automatically relocking the External Cavity Diode Lasers (ECDLs) by 
+wavemeter and/or cavity transmission using Redpitaya. (`Watch Video`_)
+
+.. _Watch Video: https://www.youtube.com/watch?v=h15hca77DVk
+
+|
 
 All required schemes, software, and fabrication files for PCB design and manufacturing of a compensation coils current controller (3x03A).
 
